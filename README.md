@@ -1,7 +1,7 @@
-#SAR\n
+## SAR
 Synthetic Aperture Radar (SAR) documentation and data analysis
 
-#Why SAR?\n
+## Why SAR?
 24/7 imaging capabilities: due to weather and illumination independence
 Advanced change detection performance: due to stable image geometry and own signal source
 Complementary to optical sensors: provides independent information about the surface
