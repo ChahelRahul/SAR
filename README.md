@@ -17,3 +17,9 @@ Synthetic Aperture Radar interferometry detects motion or elevation by comparing
 
 ## How does radar see through clouds?
 Radar wavelength is longer than particles in a cloud, such as droplets, the signal traveling through cloud is mostly unaffected by any refraction at the boundaries of different media.
+
+## Why do radar data and images often lack color?
+In microwave remote sensing, scientists measure the time and magnitude of the signal backscattered from ground to the radar antenna. The magnitude of the signal defines the brightness of a given pixel in the image, which is considered as value of all three Red, Blue and Green incase of pictorial representation and can also be called grayscale.
+
+ ## How to extract information from SAR images?
+ 
