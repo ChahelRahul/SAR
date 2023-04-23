@@ -1,7 +1,6 @@
 <j>
 
-## SAR
-Synthetic Aperture Radar (SAR) documentation and data analysis
+## SAR- Synthetic Aperture Radar (SAR) documentation and data analysis
 
 ## Why SAR?
 24/7 imaging capabilities: due to weather and illumination independence <br>
