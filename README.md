@@ -1,3 +1,4 @@
+<j>
 ## SAR
 Synthetic Aperture Radar (SAR) documentation and data analysis
 
@@ -22,4 +23,5 @@ Radar wavelength is longer than particles in a cloud, such as droplets, the sign
 In microwave remote sensing, scientists measure the time and magnitude of the signal backscattered from ground to the radar antenna. The magnitude of the signal defines the brightness of a given pixel in the image, which is considered as value of all three Red, Blue and Green incase of pictorial representation and can also be called grayscale.
 
  ## How to extract information from SAR images?
- 
+
+</j>
